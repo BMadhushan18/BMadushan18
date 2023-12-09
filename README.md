@@ -2,8 +2,8 @@
 
 <h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3><br>
 
-<table align="">
-<tr border="none">
+<table align="center">
+<tr border="1">
 <td width="50%" align="left">
 
 
