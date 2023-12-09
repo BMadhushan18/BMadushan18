@@ -9,7 +9,7 @@
 
  <div style="width: 200px; padding: 20px; background-color: #f0f0f0; border-radius: 10px; margin-right: 20px;">
     <h3 align="center">Education:</h3>
-    <p align="center">
+    <p align="">
      • BSc (Hons) in Information Technology - SLIIT<br>
      • SLIIT course1 name<br>
      • SLIIT course2 name<br>
