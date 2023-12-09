@@ -1,6 +1,5 @@
 
 <h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
 
 <table align="center">
 <tr border="none">
@@ -9,14 +8,14 @@
 
  <div style="width: 200px; padding: 20px; background-color: #f0f0f0; border-radius: 10px; margin-right: 20px;">
     <h3 align="center">Education:</h3>
-    <p align="">
+    <p align="center">
      • BSc (Hons) in Information Technology - SLIIT<br>
      • SLIIT course1 name<br>
      • SLIIT course2 name<br>
      • Oracle course name<br>
      • postman course name<br>
-     • Full Stack Developer Course<br>
-     University of Moratuwa<br><br>
+     • Full Stack Developer Course-
+     University of Moratuwa<br>
    </p>
   </div>
 </div>
