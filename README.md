@@ -1,6 +1,12 @@
-<p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
-<h1 align="center">Hi 👋, I'm Bawantha Madhushan</h1>
 
+<h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
+
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+
+🧑‍🎓 I’m an Undergraduate at SRI LANKA INSTITUTE OF INFORMATION TECHNOLOGY
  <div style="width: 200px; padding: 20px; background-color: #f0f0f0; border-radius: 10px; margin-right: 20px;">
     <h3 align="center">Education:</h3>
     <p align="center"> 
@@ -19,14 +25,6 @@
     </p>
   </div>
 </div>
-<h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
-
-<table align="center">
-<tr border="none">
-<td width="50%" align="left">
-
-🧑‍🎓 I’m an Undergraduate at SRI LANKA INSTITUTE OF INFORMATION TECHNOLOGY
 </td>
 <td width="50%" align="center">
 
