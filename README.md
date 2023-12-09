@@ -11,10 +11,10 @@
     <h3 align="center">Education:</h3><br>
     <p align="center">
      • BSc (Hons) in Information Technology - SLIIT<br>
-     • SLIIT course1 name<br>
-     • SLIIT course2 name<br>
-     • Oracle course name<br>
-     • postman course name<br>
+     • SLIIT course1 name<br><br>
+     • SLIIT course2 name<br><br>
+     • Oracle course name<br><br>
+     • postman course name<br><br>
      • Full Stack Developer Course-
      University of Moratuwa<br>
    </p>
