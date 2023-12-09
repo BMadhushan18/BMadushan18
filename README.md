@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bawantha Madhushan</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<img src="URL_TO_YOUR_PROFILE_PICTURE" alt="Bawantha's Profile Picture" width="100" height="100" style="border-radius: 50%; margin: 10px auto;">
+<h3 align="center">A passionate frontend developer from Sri Lanka</h3><br><br>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
