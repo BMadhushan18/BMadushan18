@@ -7,7 +7,7 @@
 <td width="50%" align="left">
 
 
- <div style="width: 200px; padding: 20px; background-color: #f0f0f0; border-radius: 40px; margin-right: 20px;">
+ <div style="width: 200px; padding: 20px; background-color: #f0f0f0; border-radius: 10px; margin-right: 20px;">
     <h3 align="center">Education:</h3>
     <p align="center">
      • BSc (Hons) in Information Technology - SLIIT<br><br>
@@ -17,9 +17,9 @@
      • postman course name<br><br>
      • Full Stack Developer Course<br>
      University of Moratuwa<br><br>
-     <img align="center" alt="Coding"height="30" width="30" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
-     <img align="center" alt="Coding"height="30" width="30" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
-     <img align="center" alt="Coding"height="30" width="30" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+     <img align="center" alt="Coding"height="40" width="40" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+     <img align="center" alt="Coding"height="40" width="40" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+     <img align="center" alt="Coding"height="40" width="40" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
     </p>
   </div>
 </div>
