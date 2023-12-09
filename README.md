@@ -1,94 +1,32 @@
-<!DOCTYPE html>
-<html lang="en">
+<h1 align="center">Hello, I'm Bawantha Madhushan 👋</h1>
+<h3 align="center">Passionate Frontend Developer from Sri Lanka</h3>
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bawantha Madhushan - Frontend Developer</title>
-    <style>
-        body {
-            font-family: 'Arial', sans-serif;
-            background-color: #f4f4f4;
-            color: #333;
-            margin: 0;
-            padding: 0;
-        }
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <!-- Add more as needed -->
+</p>
 
-        header {
-            text-align: center;
-            padding: 20px;
-            background-color: #007bff;
-            color: #fff;
-        }
+<h3 align="center">:chart_with_upwards_trend: Current Stats</h3>
 
-        h1, h3 {
-            margin: 0;
-        }
+<p align="center">
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=shamimsikder&theme=gotham&show_icons=true" alt="GitHub Streak"/>
+  <img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=shamimsikder&show_icons=true&theme=gotham" alt="GitHub Stats"/>
+</p>
 
-        section {
-            max-width: 800px;
-            margin: 20px auto;
-            padding: 20px;
-            background-color: #fff;
-            border-radius: 8px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
+<p align="center">
+  <img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=shamimsikder&theme=gotham" alt="Top Languages"/>
+  <img width="45%" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Animation"/>
+</p>
 
-        h3 {
-            margin-top: 20px;
-        }
-
-        p {
-            font-size: 18px;
-            line-height: 1.6;
-        }
-
-        img {
-            max-width: 100%;
-            height: auto;
-            border-radius: 8px;
-            margin-top: 20px;
-        }
-
-        .social-icons {
-            margin-top: 20px;
-        }
-
-        .social-icons a {
-            text-decoration: none;
-            margin-right: 10px;
-        }
-    </style>
-</head>
-
-<body>
-
-    <header>
-        <h1>Bawantha Madhushan</h1>
-        <h3>Passionate Frontend Developer from Sri Lanka</h3>
-    </header>
-
-    <section>
-        <h3>Languages and Tools:</h3>
-        <p>
-            <!-- Your icons and links here -->
-        </p>
-
-        <div align="center">
-            <h2>:chart_with_upwards_trend: Current Stats</h2>
-        </div>
-
-        <p align="center">
-            <!-- Your stats and images here -->
-        </p>
-
-        <h3>Connect with me:</h3>
-        <p class="social-icons">
-            <a href="https://fb.com/bawanthamadushan" target="blank">Facebook</a>
-            <!-- Add more social icons and links as needed -->
-        </p>
-    </section>
-
-</body>
-
-</html>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://fb.com/bawantha.madushan" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+  <!-- Add more social links as needed -->
+</p>
