@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bawantha Madhushan</h1>
 
-<h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
+<h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3><br>
 
-<table align="center">
+<table align="">
 <tr border="none">
 <td width="50%" align="left">
 
