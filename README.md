@@ -11,7 +11,7 @@
 
 <br><br>
 <h3 align="center">:chart_with_upwards_trend: Current Stats</h3>
-
+<br>
 <p align="center">
   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=BMadhushan18&theme=gotham&show_icons=true" alt="GitHub Streak"/>
   <img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=BMadhushan18&show_icons=true&theme=gotham" alt="GitHub Stats"/>
