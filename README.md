@@ -1,58 +1,94 @@
-<!-- Introduction Section -->
-<p align="center">
-  <a href="https://github.com/shamimsikder">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=2AA889&center=true&vCenter=true&width=435&lines=Hi+There%2C+I'm+Shamim+Sikder%F0%9F%91%8B;A+Self-motivated+Tech+Enthusiast;Always+Learning+New+Things;Love+to+Travel+and+Read+Books" alt="Typing SVG" />
-  </a>
-</p>
+<!DOCTYPE html>
+<html lang="en">
 
-<!-- Connect with Me Section -->
-<div align="center">
-  <h2>:mailbox: Connect with Me</h2>
-</div>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bawantha Madhushan - Frontend Developer</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
 
-<p align="center">
-  <a href="https://dev.to/shamimsikder" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shamimsikder" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/shamimsikder" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shamimsikder" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/shamim.sikder.537" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shamim.sikder.537" height="30" width="40" />
-  </a>
-</p>
+        header {
+            text-align: center;
+            padding: 20px;
+            background-color: #007bff;
+            color: #fff;
+        }
 
-<!-- Technologies and Tools Section -->
-<div align="center">
-  <h2>:computer: Technologies and Tools</h2>
-</div>
+        h1, h3 {
+            margin: 0;
+        }
 
-<p align="center">
-  <a href="https://www.python.org" target="_blank">
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas"/>
-  </a>
-  <!-- Add more technology icons here -->
-</p>
+        section {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
 
-<!-- Current Stats Section -->
-<div align="center">
-  <h2>:chart_with_upwards_trend: Current Stats</h2>
-</div>
+        h3 {
+            margin-top: 20px;
+        }
 
-<p align="center">
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=shamimsikder&theme=gotham&show_icons=true" alt="shamimsikder"/>
-  <img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=shamimsikder&show_icons=true&theme=gotham"/>
-</p>
+        p {
+            font-size: 18px;
+            line-height: 1.6;
+        }
 
-<p align="center">
-  <img  width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=shamimsikder&theme=gotham"/>
-  <img width="45%" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
-</p>
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+            margin-top: 20px;
+        }
 
-------
+        .social-icons {
+            margin-top: 20px;
+        }
 
-*Credit: [shamimsikder](https://github.com/shamimsikder)*  
-*Last Edited on: 23/06/2023*
+        .social-icons a {
+            text-decoration: none;
+            margin-right: 10px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>Bawantha Madhushan</h1>
+        <h3>Passionate Frontend Developer from Sri Lanka</h3>
+    </header>
+
+    <section>
+        <h3>Languages and Tools:</h3>
+        <p>
+            <!-- Your icons and links here -->
+        </p>
+
+        <div align="center">
+            <h2>:chart_with_upwards_trend: Current Stats</h2>
+        </div>
+
+        <p align="center">
+            <!-- Your stats and images here -->
+        </p>
+
+        <h3>Connect with me:</h3>
+        <p class="social-icons">
+            <a href="https://fb.com/bawanthamadushan" target="blank">Facebook</a>
+            <!-- Add more social icons and links as needed -->
+        </p>
+    </section>
+
+</body>
+
+</html>
