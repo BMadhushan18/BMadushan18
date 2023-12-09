@@ -1,3 +1,24 @@
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <div style="width: 200px; padding: 20px; background-color: #f0f0f0; border-radius: 10px; margin-right: 20px;">
+    <h3 align="center">Connect with me:</h3>
+    <p align="center">
+      <a href="https://fb.com/bawantha madushan" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bawantha madushan" height="50" width="50" />
+      </a>
+    </p>
+  </div>
+
+  <div style="width: 200px; padding: 20px; background-color: #f0f0f0; border-radius: 10px;">
+    <h3 align="center">Languages and Tools:</h3>
+    <p align="center"> 
+      <!-- Add your existing icons here -->
+      <!-- Example: -->
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a>
+      <!-- Add more icons as needed -->
+    </p>
+  </div>
+</div>
+
 <h1 align="center">Hi 👋, I'm Bawantha Madhushan</h1>
 
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3><br><br>
