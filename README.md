@@ -10,27 +10,21 @@
  <div style="width: 200px; padding: 20px; background-color: #f0f0f0; border-radius: 10px; margin-right: 20px;">
     <h3 align="center">Education:</h3>
     <p align="center"> 
-      BSc (Hons) in Information Technology - SLIIT
+      BSc (Hons) in Information Technology - SLIIT<br>
       Full Stack Developer Course<br>
       University of Moratuwa
     </p>
-  </div>
-
-
-  <div style="width: 200px; padding: 20px; background-color: #f0f0f0; border-radius: 10px;">
-    <h3 align="center">Languages and Tools:</h3>
-  
   </div>
 </div>
 </td>
 <td width="50%" align="center">
 
   <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
-
-
-  </td>
+ </td>
 </tr>
 </table>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/bawantha madushan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bawantha madushan" height="50" width="50" /></a>
