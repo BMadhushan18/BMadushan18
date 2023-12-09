@@ -6,14 +6,16 @@
 <tr border="none">
 <td width="50%" align="left">
 
-🧑‍🎓 I’m an Undergraduate at SRI LANKA INSTITUTE OF INFORMATION TECHNOLOGY
+
  <div style="width: 200px; padding: 20px; background-color: #f0f0f0; border-radius: 10px; margin-right: 20px;">
     <h3 align="center">Education:</h3>
     <p align="center"> 
+      BSc (Hons) in Information Technology - SLIIT
       Full Stack Developer Course<br>
       University of Moratuwa
     </p>
   </div>
+
 
   <div style="width: 200px; padding: 20px; background-color: #f0f0f0; border-radius: 10px;">
     <h3 align="center">Languages and Tools:</h3>
