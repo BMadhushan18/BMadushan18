@@ -22,9 +22,7 @@
 </div>
 </td>
 <td width="50%" align="center">
-
-   <img align="center" alt="Coding"height="40" width="40" src="https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=0e75b6&style=flat">
-    
+<img align="center" alt="Coding"height="40" width="40" src="https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=0e75b6&style=flat">
  </td>
 </tr>
 </table>
