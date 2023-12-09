@@ -9,7 +9,7 @@
 
  <div style="width: 200px; padding: 20px; background-color: #f0f0f0; border-radius: 10px; margin-right: 20px;">
     <h3 align="center">Education:</h3>
-    <p align="center"> 
+    <p > 
      <img align="center" alt="Coding"height="30" width="30" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"><br>
       BSc (Hons) in Information Technology - SLIIT<br><br>
      SLIIT course1 name<br><br>
@@ -21,7 +21,6 @@
      <img align="center" alt="Coding"height="30" width="30" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"><br>
      Full Stack Developer Course<br>
      University of Moratuwa
-     
     </p>
   </div>
 </div>
