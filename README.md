@@ -7,7 +7,7 @@
 <td width="50%" align="left">
 
 
- <div style="width: 200px; padding: 20px; background-color: #f0f0f0; border-radius: 10px; margin-right: 40px;">
+ <div style="width: 200px; padding: 20px; background-color: #f0f0f0; border-radius: 10px; margin-right: 20px;">
     <h3 align="center">Education:</h3>
     <p align="center">
      • BSc (Hons) in Information Technology - SLIIT<br>
