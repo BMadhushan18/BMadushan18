@@ -19,12 +19,7 @@
 
   <div style="width: 200px; padding: 20px; background-color: #f0f0f0; border-radius: 10px;">
     <h3 align="center">Languages and Tools:</h3>
-    <p align="center"> 
-      <!-- Add your existing icons here -->
-      <!-- Example: -->
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a>
-      <!-- Add more icons as needed -->
-    </p>
+  
   </div>
 </div>
 </td>
